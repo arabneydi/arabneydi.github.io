@@ -1,0 +1,216 @@
+
+a { font-weight: normal; color:  blue; } 
+a:visited { text-decoration: none;  color:blue;}
+a:hover { text-decoration: none; color: blue; }
+a:focus { text-decoration: none; color:blue; }
+a:hover , a:active { text-decoration: none; color:green; }
+
+
+.bold_link{
+font-weight: 900; color:  green;
+}
+
+
+
+
+body {clear: both;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: arial;
+	font-size: 12px;
+	color: #000000;
+	background: white;
+}
+
+#template_container {
+width: 900px;
+
+	margin:0 auto;
+	border-left: 2px solid #5a5829;
+	border-right: 2px solid #5a5829;
+    border-bottom: 25px solid #549975;
+}
+
+
+
+#template_header{
+	
+	height: 150px;
+	padding: 0;
+        background: #549975;
+}
+
+.header_title{
+	color: white;
+	line-height: 150px;
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 1px;
+        margin-left:100px;
+
+}
+
+
+
+
+
+/* menu */
+
+#template_menu {
+	clear: both;
+	width: 920px;
+	height: 0px;
+	margin-left: 0px;
+	margin-top: -40px;
+	padding: 0px 55px;
+}
+
+#template_menu ul {
+	float:left;
+	margin: 0px 0 0 0;
+	padding: 0px;
+	list-style: none;
+}
+
+#template_menu ul li{
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+
+#template_menu ul li a{
+	float: left;
+	display: block;
+	width: 120px;
+	height: 0px;
+	padding: 15px 0 0 0;
+	 
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+}
+
+#template_menu li a:hover, #template_menu li .current{
+	color:  #006600;
+	font-weight: bold;
+	margin: 0px 0 0 0;
+	
+}
+
+/* end of menu */
+
+
+
+
+
+
+/* Contacts*/
+
+#template_contacts{ 
+    clear: both;
+    float:left;
+	margin: -200px 20px 0px 200px;
+	padding: 5px;
+
+}
+
+
+#template_contacts_contents{ 
+list-style: none; margin: 0px 0px 0px -40px; line-height: 180%;
+}
+
+
+/*end of Contacts*/
+
+
+
+.indent{
+padding: 0px 30px;
+}
+
+
+.indent_small{
+padding: 0px 15px;
+}
+
+
+
+
+
+h2 {clear: both;
+   color:#549975;
+   font-size: 14px;
+}
+
+
+h1 {clear: both;
+    color:#549975;
+    font-size: 20px;
+}
+
+
+
+img.float{ 
+clear: both;
+float: left;
+color:white;  
+}
+
+
+#LastModified_template{
+clear: both;
+float: right;
+color: black;
+padding: 4px 0px;
+margin-right:5px;
+font-size: 12px;
+font-family: arial;
+}
+
+
+
+#Disclaimer_body_template{
+
+padding: 10px 0px 0px 30px;
+line-height: 130%;
+
+}
+
+
+#Disclaimer_template{
+font-size: 14px;
+color:  #006600;
+font-weight: bold;
+}
+
+
+#About_me_body_template{ 
+padding: 0px 0px 0px 20px;
+margin-top: 230px;
+margin-right: 20px;
+font-size: 13px;
+}
+#bio_template{
+font-size: 13px;
+ line-height: 150%;
+}
+
+
+#project_show_Hide{
+clear: both;
+float:right;
+margin:-31px 500px 0px 0px;
+font-size: 12px;
+
+}
+
+
+#home_photo{
+clear: both;
+float:left;
+margin:15px 0px 0px 20px;
+}
