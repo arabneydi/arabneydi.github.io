@@ -13,6 +13,22 @@ font-weight: 900; color:  green;
 
 
 
+
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
+
+
+
+
+
+
 body {clear: both;
 	margin: 0;
 	padding: 0;
