@@ -11,9 +11,6 @@ font-weight: 900; color:  green;
 }
 
 
-
-
-
 #headerPopup{
   width:75%;
   margin:0 auto;
@@ -23,11 +20,6 @@ font-weight: 900; color:  green;
   width:100%;
   margin:0 auto;
 }
-
-
-
-
-
 
 body {clear: both;
 	margin: 0;
@@ -48,8 +40,6 @@ width: 900px;
     border-bottom: 25px solid #549975;
 }
 
-
-
 #template_header{
 	
 	height: 150px;
@@ -60,7 +50,7 @@ width: 900px;
 .header_title{
 	color: white;
 	line-height: 150px;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: normal;
 	margin-bottom: 1px;
         margin-left:100px;
